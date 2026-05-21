@@ -101,15 +101,15 @@ build\Debug\warehouse_app.exe
 
 ### Главное меню и список товаров
 
-![Главное меню и список товаров](screenshots/menu.png)
+![Главное меню и список товаров](screenshots/menu.jpg)
 
 ### Аналитика склада
 
-![Аналитика склада](screenshots/analytics.png)
+![Аналитика склада](screenshots/analytics.jpg)
 
 ### Сохранение и загрузка SQLite
 
-![Сохранение и загрузка SQLite](screenshots/sqlite.png)
+![Сохранение и загрузка SQLite](screenshots/sqlite.jpg)
 
 ## Комментарии по проекту
 
